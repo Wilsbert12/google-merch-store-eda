@@ -87,6 +87,7 @@ BigQuery authentication.
 ## Repository Structure
 ```
 google-merch-store-eda/
+├── LICENSE
 ├── README.md
 ├── notebooks/
 │   └── google_merch_store_eda.ipynb
