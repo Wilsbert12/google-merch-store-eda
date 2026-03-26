@@ -6,7 +6,7 @@ seasonally. The analysis is framed as a recommendation to the store's CMO.
 
 **Tools:** Python, pandas, matplotlib, seaborn, Google BigQuery, Google Colab  
 **Data:** GA360 sample dataset via Google BigQuery — 903,653 sessions, August 2016 to August 2017  
-**Notebook:** [View on Kaggle](#) *(link to be added)*
+**Notebook:** [View on Kaggle](https://www.kaggle.com/code/robertw12345/marketing-channel-analysis-cmo-recommendation)
 
 ---
 
